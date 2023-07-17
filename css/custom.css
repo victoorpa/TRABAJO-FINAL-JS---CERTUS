@@ -1,0 +1,11 @@
+/* Icono de Whatsapp */
+#chatWhatsApp{
+    width: 64px;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+}
+
+#catalogo {
+    background-color: #f2f2f2;
+}
